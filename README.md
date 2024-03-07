@@ -1,5 +1,5 @@
 # PLPBasicGitAssignment
-Assignment on Git and github
+#Assignment on Git and github
 git init
 git add hello.txt
 git commit -m "Add hello.txt with a greeting"
