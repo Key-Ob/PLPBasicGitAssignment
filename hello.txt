@@ -1,1 +1,4 @@
 Hello, Githuberians!!
+Adding info through nano fileName.ext
+Pushing it to github
+
